@@ -1,6 +1,6 @@
 # 🚀 Codex & AI Agent 历史技能全集 (Skills Collection)
 
-本仓库完整收录并整理了作者在日常生产与研发中沉淀的 **63 个高价值 AI Agent 技能（Skills）**。
+本仓库完整收录并整理了作者在日常生产与研发中沉淀的 **64 个高价值 AI Agent 技能（Skills）**。
 所有技能均遵循统一的标准规范（包含完整 `SKILL.md` 元数据定义），不仅原生支持 **OpenAI Codex**，同时无缝兼容 **Claude Code** 与 **Google Antigravity** 等现代智能体编程环境。
 
 
@@ -35,7 +35,17 @@ cd codex-skills
 ./install.sh --target all          # 一键挂载到上述全部环境
 ```
 
-## 📑 技能分类索引表 (Index of 63 Skills)
+## 📑 技能分类索引表 (Index of 64 Skills)
+
+### 🧠 核心思维孪生中枢 (Soul & Mindset Skill)
+
+> **本仓库最核心的灵魂技能**：将作者（Zhuanz / 本像）从开始到现在使用 Codex 的所有个人习惯风格、审美哲学、严苛思维与商业落地直觉完全蒸馏而成的数字孪生体。
+
+| 技能标识 (ID) | 中文名称 | 核心能力与适用场景 | 文件数 | 体积 |
+| :--- | :--- | :--- | :---: | :---: |
+| [`本像`](./skills/本像) | **《本像》数字思维孪生契约** | 深度蒸馏个人认知思维（先现场后动作、业务终审四层观）、反AI油腻高级审美、物理级连续动效、全中文汇报与安全协同红线 | 6 | 24 KB |
+
+
 
 ### 🛒 电商与跨境供应链 (E-Commerce & Supply Chain)
 
@@ -149,7 +159,7 @@ codex-skills/
 ├── README.md               # 本索引与使用指南
 ├── .gitignore              # Git 忽略配置
 ├── install.sh              # 跨平台一键部署脚本
-└── skills/                 # 63 个技能集合
+└── skills/                 # 64 个技能集合
     ├── 1688-differentiated-stock-mining/
     ├── ego-browser/
     ├── gsap-core/
