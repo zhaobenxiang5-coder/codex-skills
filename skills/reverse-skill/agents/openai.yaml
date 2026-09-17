@@ -1,0 +1,6 @@
+interface:
+  display_name: "逆向"
+  short_description: "授权范围内的前端、接口、应用与程序逆向分析工作流"
+  default_prompt: "Use $reverse-skill-router to perform an evidence-first, read-only reverse analysis of an authorized target."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "本象连续动画制作方法"
+  short_description: "复用逐帧运动、同物体变形、镜头跟随和空间层次，让题材自由变化"
+  default_prompt: "使用 $benxiang-motion-video 的连续动画骨架与制作方法完成当前视频，保留题材，不套固定故事。"

@@ -1,0 +1,5 @@
+interface:
+  display_name: "1688差异化现货挖掘"
+  short_description: "从1688找可立即买样的差异化现货，并核验SKU、MOQ和库存"
+  default_prompt: "使用 $1688-differentiated-stock-mining 从1688寻找可立即买样或微调的差异化现货，并生成中文候选总表和看图页。"
+

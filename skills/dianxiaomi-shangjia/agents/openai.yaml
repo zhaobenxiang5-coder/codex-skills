@@ -1,0 +1,4 @@
+interface:
+  display_name: "店小秘上架"
+  short_description: "店小秘 TEMU 半托管草稿上架助手"
+  default_prompt: "Use $dianxiaomi-shangjia to turn the current AI商品上架包 into a 店小秘 TEMU 半托管草稿 workflow."

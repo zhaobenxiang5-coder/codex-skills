@@ -1,0 +1,4 @@
+interface:
+  display_name: "抓需求产品（1688）"
+  short_description: "从选需求抓1688产品并进前端黄灯候选池"
+  default_prompt: "使用 $flow-1688-sourcing 从选需求抓1688产品，修正源图归属，并保持黄灯待确认。"

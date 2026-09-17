@@ -1,0 +1,4 @@
+interface:
+  display_name: "GPT与Codex协作"
+  short_description: "网页操作本机，或Codex找GPT规划与复查，保留断点和真实验收证据"
+  default_prompt: "使用 $gpt-codex-collab 完成当前任务，根据发起位置选择模式，复用现有连接并回读验证。"

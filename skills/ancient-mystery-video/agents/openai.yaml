@@ -1,0 +1,4 @@
+interface:
+  display_name: "神秘古代史视频"
+  short_description: "研究古代遗迹与考古悬疑并制作完整电影感竖屏短视频成片"
+  default_prompt: "Use $ancient-mystery-video to research and produce a finished ancient mystery short video."

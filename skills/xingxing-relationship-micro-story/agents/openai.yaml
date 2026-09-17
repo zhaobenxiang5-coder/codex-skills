@@ -1,0 +1,6 @@
+interface:
+  display_name: "醒醒关系微剧场·副线"
+  short_description: "独立副线：固定成年人关系角色并生成淡彩手绘五幕微剧情短视频"
+  default_prompt: "Use $xingxing-relationship-micro-story to create a five-beat relationship micro-story without changing the original 醒醒 Skill."
+policy:
+  allow_implicit_invocation: true

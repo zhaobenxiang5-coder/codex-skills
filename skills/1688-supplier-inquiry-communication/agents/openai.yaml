@@ -1,0 +1,4 @@
+interface:
+  display_name: "1688厂家询问沟通"
+  short_description: "先确认产品细节，再在1688批量找厂、沟通、回读与筛选"
+  default_prompt: "先向我确认本次产品的结构、材质、尺寸、性能、资料发送权限和商务边界，生成ProductContactBrief与首条话术并等我批准后，再执行1688厂家搜索和沟通。"

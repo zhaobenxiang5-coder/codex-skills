@@ -1,0 +1,8 @@
+{
+  "source": "https://skill.alphashop.cn/api/skill/detail?skillName=1688-product-search",
+  "skill": "1688-product-search",
+  "version": "1.0.3",
+  "official": true,
+  "sha256": "58541fea78afd751001afb5d1d25d69fa43e57896a4140ab4e0bab93d48c06f2",
+  "installedAt": "2026-08-27"
+}

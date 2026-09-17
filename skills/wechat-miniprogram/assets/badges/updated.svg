@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="24" viewBox="0 0 160 24" font-family="-apple-system, 'Segoe UI', sans-serif">
+  <rect x="0" y="0" width="64" height="24" rx="4" fill="#2b2b2b"/>
+  <rect x="60" y="0" width="96" height="24" rx="4" fill="#0A9468"/>
+  <text x="32" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">UPDATED</text>
+  <text x="108" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">2026.08</text>
+</svg>

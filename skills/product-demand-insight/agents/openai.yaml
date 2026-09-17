@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品需求洞察"
+  short_description: "基于真实证据生成可验证、可找货并带闸口的实体商品开发需求"
+  default_prompt: "使用 $product-demand-insight 将这些市场证据整理成可验证的实体商品开发需求简报。"

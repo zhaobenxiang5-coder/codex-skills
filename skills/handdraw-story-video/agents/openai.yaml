@@ -1,0 +1,7 @@
+interface:
+  display_name: "手绘故事视频"
+  short_description: "一句话生成带配音、轻音乐和动态铅笔上色的中文手绘故事视频"
+  default_prompt: "Use $handdraw-story-video to turn my topic or Chinese script into a finished illustrated story MP4."
+
+policy:
+  allow_implicit_invocation: true

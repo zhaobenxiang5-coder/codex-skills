@@ -1,0 +1,42 @@
+# 操作系统系统文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 依赖与环境
+node_modules/
+vendor/
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 敏感信息与凭证配置
+.env
+.env.*
+*.local
+auth.json
+secrets/
+*.pem
+*.key
+
+# 编辑器与IDE配置
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# 编译与构建产物
+dist/
+build/
+*.egg-info/
+.coverage
+htmlcov/
+.pytest_cache/

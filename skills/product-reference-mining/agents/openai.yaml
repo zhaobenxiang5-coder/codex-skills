@@ -1,0 +1,4 @@
+interface:
+  display_name: "国外差异化产品参考挖掘"
+  short_description: "从国外榜单、品牌与奖项中挖掘可打样的差异化产品参考"
+  default_prompt: "使用 $product-reference-mining 从国外榜单、品牌、展会或设计奖中寻找不重复、可验证、可打样的差异化参考款。"

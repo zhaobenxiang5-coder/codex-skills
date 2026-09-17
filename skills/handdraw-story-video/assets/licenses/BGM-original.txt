@@ -1,0 +1,5 @@
+Warm Pentatonic Background Music
+
+This audio is an original procedural composition generated for handdraw-video-studio.
+It contains no samples or third-party recordings and may be used in videos produced by this project.
+Generator: scripts/generate_bgm.py

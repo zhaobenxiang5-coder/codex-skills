@@ -1,0 +1,6 @@
+interface:
+  display_name: "Zhitai Temu Capture"
+  short_description: "抓当天蜘泰合格候选回写中台"
+  default_prompt: "Use $zhitai-temu-capture to 补抓今天蜘泰合格候选的 Temu 详情并回写 AI 商品流水线中台。"
+policy:
+  allow_implicit_invocation: true

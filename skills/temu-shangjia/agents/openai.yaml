@@ -1,0 +1,6 @@
+interface:
+  display_name: "TEMU上架"
+  short_description: "把AI商品上架包安全填入蜘泰创建页并只保存暂存草稿"
+  default_prompt: "Use $temu-shangjia to turn the latest AI商品上架包 into a TEMU/Zhitai saved draft without publishing."
+policy:
+  allow_implicit_invocation: true

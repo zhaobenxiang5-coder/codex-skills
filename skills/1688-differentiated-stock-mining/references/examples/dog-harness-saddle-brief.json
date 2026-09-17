@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "productDirectionId": "HNS-SADDLE-001",
+  "categoryId": "dog-harness",
+  "categoryNameZh": "狗胸背带",
+  "targetValueZh": "让主人穿脱、使用和携带方便，让狗狗舒适、活动自然并提升颜值，使人宠安全轻松地遛狗",
+  "formFingerprint": {
+    "nameZh": "马鞍型短背胸背",
+    "mustHave": [
+      "马鞍型短背轮廓",
+      "宽背片",
+      "双侧快拆"
+    ],
+    "preferred": [
+      "背部宽提手",
+      "反光织带",
+      "背部金属D环",
+      "小物挂点",
+      "缓冲牵引绳套装"
+    ],
+    "exclusions": [
+      "普通Y形胸背",
+      "单片软胸垫",
+      "重型战术背心",
+      "康复吊带",
+      "宠物包",
+      "单独牵引绳",
+      "项圈"
+    ]
+  },
+  "commercialGate": {
+    "minCompleteSkuPrice": 15,
+    "priceOperator": ">",
+    "maxMoq": 1,
+    "stockRequired": true,
+    "allowedProductForms": [
+      "complete-product",
+      "product-plus-leash"
+    ],
+    "skuAccessoryOnlyKeywords": [
+      "单独牵引绳",
+      "项圈",
+      "灯",
+      "拾便袋",
+      "名字牌",
+      "补差价",
+      "配件"
+    ],
+    "skuCompleteProductKeywords": [
+      "胸背",
+      "胸背带",
+      "套装"
+    ]
+  },
+  "referenceImages": [
+    "~/Documents/批图/亚马逊1.jpg"
+  ],
+  "targetReviewCount": 20,
+  "detailCandidateLimit": 20
+}

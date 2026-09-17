@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07C160"/>
+      <stop offset="1" stop-color="#0A9468"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E54D42"/>
+      <stop offset="1" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+
+  <!-- 国风祥云装饰（半透明） -->
+  <g fill="#ffffff" opacity="0.12">
+    <path d="M-20,70 q25,-32 60,-18 q12,-34 48,-16 q34,-12 38,24 q28,6 16,34 q-22,16 -50,4 q-32,16 -60,-6 q-28,-2 -44,-16 q-18,-8 -8,-20 z"/>
+    <path d="M980,360 q25,-32 60,-18 q12,-34 48,-16 q34,-12 38,24 q28,6 16,34 q-22,16 -50,4 q-32,16 -60,-6 q-28,-2 -44,-16 q-18,-8 -8,-20 z"/>
+  </g>
+
+  <!-- 顶部 emoji 装饰行 -->
+  <text x="600" y="108" font-size="40" text-anchor="middle">📱  🤖  💰  🚀</text>
+
+  <!-- 主标题 -->
+  <text x="600" y="192" font-size="54" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">wechat-miniprogram-builder</text>
+
+  <!-- 中文金句 -->
+  <text x="600" y="252" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">用 AI 把微信小程序，做成你的「睡后收入」</text>
+
+  <!-- 英文副标 -->
+  <text x="600" y="296" font-size="18" fill="#ffffff" opacity="0.85" text-anchor="middle">Build WeChat Mini-Programs with AI · From 0 to Passive Income</text>
+
+  <!-- 底部生命周期流程 -->
+  <text x="600" y="360" font-size="17" fill="#ffffff" opacity="0.92" text-anchor="middle" letter-spacing="1">选题  →  备案  →  开发  →  变现  →  审核  →  推广  →  矩阵</text>
+
+  <!-- 红色国风印章 -->
+  <rect x="1086" y="40" width="86" height="86" rx="14" fill="url(#seal)"/>
+  <text x="1129" y="98" font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif">匠</text>
+</svg>

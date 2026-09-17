@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信小程序"
+  short_description: "用 AI 完成微信小程序选题、开发、测试、提审、发布与运营"
+  default_prompt: "使用 $wechat-miniprogram 规划并实际开发一个可运行、可提审的微信小程序。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "醒醒别再猜视频生成"
+  short_description: "晓伊自然旁白、稳镜慢推、20秒视频QA与千帆发布"
+  default_prompt: "使用 $xingxing-emotion-video 运行今天唯一的20秒内容闭环：读取同龄数据，生成文案与语义动作，按晓伊自然旁白和稳镜慢推模板完成音画及封面QA，再通过千帆取得允许平台的远程发布证据；小红书保持隔离。"
